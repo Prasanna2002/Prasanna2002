@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋, </h1>
+<h1 align="center">Hello 👋, There !</h1>
 <!-- <h3 align="center">A Computer Science graduate .</h3> -->
 
-I am Prasanna. A Graduate in Computer Science and engineering from Vidyavadrdhaka College of Engineering, I am a Expreienced Python Developer and in understanding Data,currently learning Data Science and Machine Learning. 
+I am Prasanna. A Graduate in Computer Science and engineering from Vidyavadrdhaka College of Engineering. I am a Expereienced Python Developer and also have and Experience in Querying Databsases ,currently learning Data Science and Machine Learning to Understand Data in Depth. 
 
 ### Profile views counter 👁‍🗨
 
