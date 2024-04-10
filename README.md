@@ -26,6 +26,6 @@ I am Prasanna. A Graduate in Computer Science and engineering from Vidyavadrdhak
 
 
 <h3 align="left">My Github Stats: </h3>
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna2002&show_icons=true" alt="Prasanna2002"/></p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna2002&show_icons=true&locale=en&layout=compact" alt="Prasanna2002"/></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prasanna2002&show_icons=true&theme=gotham" alt="Prasanna2002" /> </p>
 
