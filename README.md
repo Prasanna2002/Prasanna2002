@@ -1,13 +1,11 @@
 <h1 align="center">Hello 👋, There !</h1>
 <!-- <h3 align="center">A Computer Science graduate .</h3> -->
 
-I am Prasanna. A Graduate in Computer Science and Engineering from Vidyavadrdhaka College of Engineering. I have and expereince in  Python Programming, Data Analysis, Querying Databsases and building ML Models. Currently learning Data Science and Machine Learning to Understand Data in Depth. 
+I am Prasanna. A Graduate in Computer Science and Engineering from Vidyavadrdhaka College of Engineering. I have an expereince in  Python Programming, Data Analysis, Querying Databases and building ML Models. Currently learning Data Science and Machine Learning to Understand Data in Depth. 
 
 ### Profile views counter 👁‍🗨
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Prasanna2002&label=Profile%20views&color=0e75b6&style=flat" alt="Prasanna Kumar M" /> </p>
-
 
 
 - 📫 How to reach me *prasannakumarm024@gmail.com*
