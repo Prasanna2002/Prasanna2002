@@ -28,5 +28,13 @@ I am Prasanna. A Graduate in Computer Science and Engineering from Vidyavadrdhak
 
 <h3 align="left">My Github Stats: </h3>
 <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prasanna2002&show_icons=true&locale=en&layout=compact" alt="Prasanna2002"/></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prasanna2002&show_icons=true&locale=en&theme=default" alt="Prasanna2002" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prasanna2002&show_icons=true&locale=en&theme=default" alt="Prasanna2002" /> </p> 
+
+
+<a href="https://github.com/Prasanna2002/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/Prasanna2002/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/Prasanna2002/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Prasanna2002/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/Prasanna2002/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/Prasanna2002/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
 
